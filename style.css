@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizzing:border-box;
 }
 
 body {
@@ -31,7 +32,7 @@ body {
   width: 18vmin;
   border-radius: 1rem;
   border: none;
-  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
   font-size: 8vmin;
   color: #E8C1C5;
   background-color: #011638;
